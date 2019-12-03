@@ -7,6 +7,6 @@ This project includes 5 types of datasets from the Authoroty of Educational impr
 1- Students total grade in thier last year in highschool 
 2- Tahseli Exam scores
 3- Qudrat Exam scores
-5- Teachers information
+5- Teachers information.
 
 
